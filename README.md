@@ -1,4 +1,8 @@
-## Hi, my name is Lucas Freire and i'm a student of Computer Science at UNIFESP (Universidade Federal de São Paulo).
+## WELCOME TO MY PROFILE 
+
+Hi, my name is Lucas Freire and i'm a student of Computer Science at UNIFESP (Universidade Federal de São Paulo).
+
+<p align="left">
 
 <!--
 **LKSFDS/LKSFDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
