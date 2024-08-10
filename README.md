@@ -1,6 +1,6 @@
 ## WELCOME TO MY PROFILE 
 
-Hi, my name is Lucas Freire and i'm a student of Computer Science at UNIFESP (Universidade Federal de São Paulo).
+Hi, my name is Lucas Freire and i'm a student of Computer Science at UNIFESP (Universidade Federal de São Paulo). This profile will have the projects that i'm working right now or the ones that i have worked on the past.
 
 <p align="left">
 
