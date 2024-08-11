@@ -1,3 +1,8 @@
+<div align="left"> 
+          
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lcsfds)
+<a href = "mailto:lfreire631@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=35F707&width=435&lines=HELLO+AND+WELCOME+TO+MY+PROFILE)](https://git.io/typing-svg)
 
 Hi 😃, my name is Lucas Freire, i'm a brazilian 🇧🇷 developer born in the city of São Paulo-SP. I'm also a student of Computer Science at UNIFESP (Universidade Federal de São Paulo). This profile will have the projects that i'm working right now or the ones that i have worked on the past, with the goal to build up a portfolio that will show my skills as a developer and which technologies i've been working with.
@@ -29,15 +34,11 @@ Hi 😃, my name is Lucas Freire, i'm a brazilian 🇧🇷 developer born in the
 
 **`STATS:`**
 
-![LKSFDS's Github Stats](https://github-readme-stats.vercel.app/api?username=LKSFDS&show_icons=true&theme=great-gatsby)
+![LKSFDS's Github Stats](https://github-readme-stats.vercel.app/api?username=LKSFDS&show_icons=true&theme=great-gatsby) <br/>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LKSFDS&theme=great-gatsbyborder=false&include_all_commits=false&count_private=true&layout=compact)
+
+<!--- ![](https://github-contributor-stats.vercel.app/api?username=LKSFDS&limit=5&theme=great-gatsby_all_yearly_contributions=true) -->
+
+
 
 #
-
-**`SOCIAL MEDIA | CONTACTS:`**
-
-<div align="left">
-          
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lcsfds)
-<a href = "mailto:lfreire631@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-           
-#          
