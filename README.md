@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=35F707&width=435&lines=HELLO+AND+WELCOME+TO+MY+PROFILE)](https://git.io/typing-svg)
 
-Hi 😃, my name is Lucas Freire, i'm a brazilian 🇧🇷 developer born in the city of São Paulo-SP. I'm also a student of Computer Science at UNIFESP (Universidade Federal de São Paulo). This profile will have the projects that i'm working right now or the ones that i have worked on the past, with the goal to build up a portfolio that will show my skills as a developer and which technologies i've been working with.
+Hi 😃, my name is Lucas Freire, i'm a brazilian 🇧🇷 developer born in the city of São Paulo-SP. I'm also a student of Computer Science at UNIFESP (Universidade Federal de São Paulo). This profile will have the projects that i'm working right now and the ones that i have worked on the past, with the goal to build up a portfolio that will show my skills as a developer and which technologies i've been working with.
 
 ---
 
